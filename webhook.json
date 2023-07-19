@@ -1,0 +1,38 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "title": "Server Rules",
+        "color": 12683239,
+        "image": {
+          "url": "https://media.discordapp.net/attachments/882275299147022359/1096397630071902229/nEYrTPX.jpg?width=1193&height=671"
+        }
+      },
+      {
+        "title": "1) Be courteous, mindful of others, and keep it friendly.",
+        "description": "**a)** Treat everyone with respect. Absolutely no harassment, threats, slurs, witch hunting, sexism, racism, or hate speech will be tolerated. This includes telling people to commit acts of self harm.\n\n**b)** Some slurs, even if not meant as an insult, should not be used. Please use your common sense.\n\n**c)** Discussions regarding sensitive, disturbing or creepy topics like rape, suicide and incest will not be entertained in this server.\n\n**d)** Do not post personal info of others' without their permission.\n\n**e)** If you are subjected to any harassment, DM or ping the @Modmail bot and a moderator will get in touch with your as soon as possible.\n\n**f)** Don't disrupt the conversation or engage in rampant shitposting. Keep the server warm and fuzzy.",
+        "color": 12683239
+      },
+      {
+        "title": "2) If you were banned or muted, don't use other accounts to rejoin the server.",
+        "description": "**a)** Do not incite drama about being muted or banned. Being mature and just talking to the mod team will go over much more smoothly.\n\n**b)** If you have an issue with a mod or their mod actions, feel free to DM another mod to resolve the issue.",
+        "color": 12683239
+      },
+      {
+        "title": "3) Please don't spoil anyone.",
+        "description": "**a)** Spoiler-tag sensitive content and specify what the spoiler is for.\nHow to use spoiler tags:\nInclude the title and season/source ➜\n(rezero s1) `||Spoiler.||`\n(rezero vol 14) `||Spoiler.||`\n\n**b)** There is no expiration date for major plot points of any series, always spoiler-tag them.\n\n**c)** Be extra careful with spoilers of anything that has been freshly released - not all people read/watch things right away.",
+        "color": 12683239
+      },
+      {
+        "title": "4) English is the main language of this server.",
+        "description": "**a)** Full-blown conversations in other languages should be avoided if possible. Also, we can't moderate them. However, Japanese is allowed to some extent.",
+        "color": 12683239
+      },
+      {
+        "title": "5) Remember that the rules are just guidelines. In ambiguous cases, the mods will have the final say on the matter.",
+        "description": "**a)** Mods reserve the right to tell people to move on and discuss something else if they feel the current conversation is overly negative/ repetitive/ unproductive.\n\n**b)** Follow discord's [community guidelines](https://discord.com/guidelines) and [terms of services](https://discordapp.com/terms).",
+        "color": 12683239
+      }
+    ],
+    "attachments": []
+  }
